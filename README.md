@@ -26,7 +26,7 @@
 ### I just being me
 
 <div align="center">
-  <img src="https://pt.pinterest.com/pin/1094726622067152552/" />
+  <img src="https://i.pinimg.com/originals/b9/28/c2/b928c215f571016c5370721cde6fd69b.gif" />
 </div>
 
 ### GitHub em números
