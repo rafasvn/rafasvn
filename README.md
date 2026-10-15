@@ -12,10 +12,10 @@
 
 ### Sobre mim
 
-- 🎓 Sou estudante de **Informática**.
-- 💻 Gosto de **desenvolvimento web**, da ideia à interface.
-- 🔐 Tenho interesse em **cybersecurity** e segurança na web.
-- 🌱 Estou sempre a aprender e a experimentar novas tecnologias.
+- 🎓 Estudante de Informática.
+- 💻 Desenvolvimento Web, da ideia à interface.
+- 🔐 Cybersecurity e segurança na web.
+
 
 ### Tecnologias
 
