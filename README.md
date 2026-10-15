@@ -13,7 +13,7 @@
 ### Sobre mim
 
 - 🎓 Estudante de Informática.
-- 💻 Desenvolvimento Web, da ideia à interface.
+- 💻 Desenvolvimento Web.
 - 🔐 Cybersecurity e segurança na web.
 
 
