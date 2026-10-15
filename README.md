@@ -23,10 +23,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" alt="HTML, CSS, JavaScript e Python" />
 </div>
 
-### Um pouco de código em movimento
+### I just being me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="GIF de programação" />
+  <img src="https://pt.pinterest.com/pin/1094726622067152552/" />
 </div>
 
 ### GitHub em números
