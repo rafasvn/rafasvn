@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1100&color=8B949E&center=true&vCenter=true&width=520&height=45&lines=Estudante+de+Inform%C3%A1tica;Explorando+Desenvolvimento+Web;Estudando+Cybersecurity)](https://git.io/typing-svg)
 
-*Aprendendo, criando e evoluindo — um projeto de cada vez.*
+* Um projeto de cada vez.*
 
 </div>
 
@@ -20,7 +20,7 @@
 ### Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" alt="HTML, CSS, JavaScript e Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" alt="HTML, CSS, JavaScript, Python e Swift" />
 </div>
 
 ### I just being me
