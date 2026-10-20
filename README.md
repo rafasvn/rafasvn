@@ -15,7 +15,7 @@
 - 🎓 Estudante de Informática.
 - 💻 Desenvolvimento Web.
 - 🔐 Cybersecurity e segurança na web.
-- 📱 Dev mobile
+- 📱 Dev mobile.
 
 
 ### Tecnologias
