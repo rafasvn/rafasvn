@@ -21,7 +21,7 @@
 ### Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,swift&theme=dark" alt="HTML, CSS, JavaScript, Python e Swift" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,&theme=dark" alt="HTML, CSS, JavaScript, Python" />
 </div>
 
 ### I just being me
