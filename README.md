@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py,&theme=dark" alt="HTML, CSS, JavaScript, Python" />
 </div>
 
-### I just being me
+### Choose peace
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/d1/ae/c4/d1aec4fa546bd78191efcd28713a24a2.gif" />
